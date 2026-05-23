@@ -1,0 +1,2 @@
+# -Advanced-Co-Doped-GQDs-for-Targeted-Drug-Delivery-Cancer-Bioimaging-Enhanced-Therapy-
+Developed green-synthesized cobalt-doped (Co–GQDs) functionalized with folic/hyaluronic acid for targeted Bosutinib delivery. Demonstrated pH-responsive sustained release, enhanced uptake in K562 leukemia cells, fluorescence bioimaging capability, and superior anticancer efficacy, establishing a multifunctional theranostic nanoplatform.
